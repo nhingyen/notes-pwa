@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import NotesList from "./components/NotesList";
 import NoteEditor from "./components/NoteEditor";
 import SearchBar from "./components/SearchBar";
