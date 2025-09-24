@@ -1,6 +1,6 @@
 # Notes App
 
-Ứng dụng ghi chú Progressive Web App (PWA) được xây dựng bằng React, hỗ trợ Markdown và hoạt động offline.
+A Progressive Web App (PWA) for note-taking built with React, supporting Markdown and offline functionality.
 
 ## Features
 
